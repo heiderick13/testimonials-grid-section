@@ -71,7 +71,7 @@ main {
 }
 
 .testimonial {
-  padding: 1.9rem;
+  padding: 2rem;
   border-radius: 1rem;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
 }
@@ -127,7 +127,8 @@ main {
 }
 
 .testimonial-text {
-  opacity: 50%;
+  opacity: 60%;
+  line-height: 1.2;
 }
 
 .testimonial-title {
